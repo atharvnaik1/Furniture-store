@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-  <h3><b>React Phone Store</b></h3>
+  <h3><b>React Furniture Store</b></h3>
 
 # 📗 Table of Contents
 
