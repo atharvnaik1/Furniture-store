@@ -7,26 +7,18 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
 
-# 📖 [React Phone Store] <a name="about-project"></a>
 
-**[React Phone Store]** An E-commerce Web App that enables users to buy online.
+# 📖 [React Furniture Store] <a name="about-project"></a>
 
-## 🛠 Built With <a name="built-with"></a>
+**[React Furniture Store]** An E-commerce Web App that enables users to buy online.
+
 
 ### Tech Stack <a name="tech-stack"></a>
 <details>
@@ -45,9 +37,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://musong-e-store.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +52,7 @@ Node version >= 14
 Clone this repository to your desired folder:
 sh
   cd my-folder
- git clone https://github.com/ernestmusong/React-House-Furniture-Store.git
+ git clone https://github.com/atharvnaik1/Furniture-store.git
 
  ### Install:
  Run: npm install
@@ -74,11 +64,8 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Musong Ernest**
+👤 **Atharv Naik**
 
-- GitHub: [@ernestmusong](https://github.com/ernestmusong)
-- Twitter: [@MusongAkeh](https://twitter.com/MusongAkeh)
-- LinkedIn: [Musong Ernest](https://www.linkedin.com/in/musongernestakeh/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,13 +79,6 @@ sh
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/ernestmusong/React-House-Furniture-Store/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 If you like this project, give it a star please!
@@ -106,7 +86,3 @@ If you like this project, give it a star please!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 📝 License <a name="license"></a>
- This project is [MIT](./LICENSE.txt) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
